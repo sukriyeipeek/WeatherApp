@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 11 ve öncesi için yedekleme kuralları.
+     <include> verildiğinde yalnızca listelenen dosyalar yedeklenir: favoriler ve ilgi alanları.
+     Şifreli konum dosyası yedeklenmez (anahtarı cihazın Keystore'unda, başka telefonda çözülemez);
+     hava durumu veritabanı da yedeklenmez, ağdan yeniden doldurulur. -->
+<full-backup-content>
+    <include domain="sharedpref" path="favorites.xml" />
+</full-backup-content>

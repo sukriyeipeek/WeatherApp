@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Uygulama açılırken Compose çizilmeden önce görünen pencere rengi.
+         Lacivert yapıyoruz ki açılışta beyaz ekran yanıp sönmesin. -->
+    <style name="Theme.Havam" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/night</item>
+    </style>
+</resources>

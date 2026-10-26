@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hava Durumu</string>
+    <string name="widget_name">Hava Durumu</string>
+    <string name="widget_description">İlk favori ilinin anlık hava durumu</string>
+</resources>
