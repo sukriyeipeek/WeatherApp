@@ -81,9 +81,10 @@ Her ilgi alanı 100 puandan başlar; hava koşulları puan düşürür ya da ekl
 | | Puan |
 |---|---:|
 | Başlangıç | 100 |
-| Nem %88 | −14 |
-| Soğuk (hissedilen 5°) | −12 |
-| **Koşu skoru** | **74 · İyi** |
+| Nem %78 | −6 |
+| **Koşu skoru** | **94 · Mükemmel** |
+
+Hava kötüleştikçe çipler çoğalır: hissedilen 5° ve %88 nemde "Soğuk −12" ve "Nem −14" cezalarıyla skor 74'e (İyi) iner.
 
 - Skor seviyeleri: **80+** Mükemmel · **60+** İyi · **40+** Orta · **20+** Zayıf · altı Riskli
 - Gök gürültüsü gibi tek başına tehlikeli durumlar skoru doğrudan bir tavana indirir (fırtınada koşu skoru en fazla 5 olur).
